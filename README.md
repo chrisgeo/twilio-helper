@@ -8,9 +8,12 @@ stuff
 npm install --save twilio-helper
 ```
 
-## Examples
+## Run the tests
 
-See `examples/` for different use cases.
+```bash
+gulp test
+```
+
 
 ## License
 

@@ -2,7 +2,6 @@
   "name": "twilio-helper",
   "version": "0.0.0",
   "dependencies": {
-    "dispatcherjs": "^0.5.1",
     "twilio": "^2.2.0"
   },
   "scripts": {
